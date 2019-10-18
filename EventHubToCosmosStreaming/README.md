@@ -1,3 +1,5 @@
+![](logo.png)
+
 # Overview
 This sample demonstrates a recipe for consuming events from Event Hub using structured spark streaming and streaming them to Cosmos DB.
 
