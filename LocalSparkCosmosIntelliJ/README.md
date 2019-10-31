@@ -1,6 +1,6 @@
 # Overview
 This is a short guide to setting up IntelliJ IDE for local spark development and installing CosmosDB Spark connector to read and 
-write to Cosmos DB. Instructions are specific to Windows but should also work for Linux 
+write to Cosmos DB. Thought, instructions are specific to Windows they will also work for Linux.
 
 # Getting started
 
