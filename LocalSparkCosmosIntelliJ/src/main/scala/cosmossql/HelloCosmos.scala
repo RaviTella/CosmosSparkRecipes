@@ -52,7 +52,7 @@ object HelloCosmos {
 
   private def getReadConfig(): Config = {
     Config(Map(
-      "Endpoint" -> "h<>",
+      "Endpoint" -> "<>",
       "Masterkey" -> "<>",
       "Database" -> "samples",
       "Collection" -> "telemetry",
